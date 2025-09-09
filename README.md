@@ -10,4 +10,4 @@ Main repository for the [Dream beam project](https://dreambeam.lbl.gov/):
 
 
 installation:
-`pip install git+https://github.com/yourusername/myproject.git`
+`pip install git+https://github.com/dream-beam/dream`
