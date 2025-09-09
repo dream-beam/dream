@@ -9,4 +9,5 @@ Main repository for the [Dream beam project](https://dreambeam.lbl.gov/):
 * beamline design
 
 
-```pip install git+https://github.com/yourusername/myproject.git
+installation:
+`pip install git+https://github.com/yourusername/myproject.git`
