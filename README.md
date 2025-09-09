@@ -1,2 +1,12 @@
 # dream
-Main repository for python tools
+
+Main repository for the [Dream beam project](https://dreambeam.lbl.gov/):
+* wavefront propagation simulation
+* automated beamline alignment
+* wavefront engineering
+* dual beam zoneplates
+* useful notebooks
+* beamline design
+
+
+```pip install git+https://github.com/yourusername/myproject.git

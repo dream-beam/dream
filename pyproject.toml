@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dream"
+version = "0.1.0"
+description = "A simple example Python package"
+authors = [
+    { name = "Antoine Islegen-Wojdyla", email = "awojdyla@lbl.gov" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.7"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/dream-beam/dream"
